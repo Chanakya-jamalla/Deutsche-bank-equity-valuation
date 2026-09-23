@@ -1,0 +1,4 @@
+Scenario,Fair Value per Share (EUR),Implied Value of Equity (EUR bn),Upside/Downside vs Market Price
+Base Case,52.82,100.4,0.6507
+Bull Case,64.63,122.8,1.0196
+Bear Case,39.41,74.9,0.2315
